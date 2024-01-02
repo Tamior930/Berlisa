@@ -1,5 +1,5 @@
 # Berlisa
-Welcome to the GitHub repository for our ambitious hotel website project! This repository contains a carefully crafted hotel website using PHP, HTML, CSS and Bootstrap 5 to ensure a seamless and visually appealing experience. Here's a quick overview of the main features:
+Welcome to the GitHub repository for my ambitious hotel website project! This repository contains a carefully crafted hotel website using PHP, HTML, CSS and Bootstrap 5 to ensure a seamless and visually appealing experience. Here's a quick overview of the main features:
 
 
 ### Booking and Registration
@@ -56,4 +56,4 @@ Password: 1234
 
 ## Contributing
 
-Feel free to explore the repository, contribute and use this project as a foundation for your own endeavours. We welcome collaboration and improvements to improve the functionality and security of the hotel website. Thank you for visiting our GitHub page and we look forward to your participation in making this project even better!
+Feel free to explore the repository, contribute and use this project as a base for your own efforts. I welcome collaboration and improvements to improve the functionality and security of the hotel website. Thank you for visiting our GitHub page and I look forward to your participation in making this project even better!
