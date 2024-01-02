@@ -52,3 +52,8 @@ Password: 1234
 ![image](https://github.com/Tamior930/Berlisa/assets/38571092/d64394eb-ba3e-476a-a5fb-7c7a1d203b1f)
 ![image](https://github.com/Tamior930/Berlisa/assets/38571092/dd21cd8c-328e-4332-86bf-6220a6ae9ea3)
 ![image](https://github.com/Tamior930/Berlisa/assets/38571092/8a90b108-5bfd-4c24-83a1-f7a2c55d8bb6)
+
+
+## Contributing
+
+Feel free to explore the repository, contribute and use this project as a foundation for your own endeavours. We welcome collaboration and improvements to improve the functionality and security of the hotel website. Thank you for visiting our GitHub page and we look forward to your participation in making this project even better!
