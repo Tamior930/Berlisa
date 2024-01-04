@@ -14,8 +14,7 @@ Welcome to the GitHub repository for my ambitious hotel website project! This re
 
 ### Security Features
 
-- Implementation of essential security features.
-- Ensures the protection of sensitive user data for a trusted environment.
+- Prevents SQL Injection
 
 ### News Page Management
 
